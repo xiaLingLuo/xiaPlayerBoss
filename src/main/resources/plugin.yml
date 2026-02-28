@@ -1,0 +1,4 @@
+name: xiaPlayerBoss
+version: '${project.version}'
+main: im.xz.cn.xiaplayerboss.XiaPlayerBoss
+api-version: '1.21'
